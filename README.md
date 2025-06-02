@@ -1,6 +1,6 @@
-
-<h1 align="center">Hi 👋, I'm Zryaapsa</h1>
-<h3 align="center">🌱 Informatics Engineering Student | Web & Mobile Developer</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/klaussinani/aozorah/aozorah/img/cat.gif" width="200" alt="walking pixel cat">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zryaapsa&label=Profile%20views&color=0e75b6&style=flat" alt="zryaapsa" />
