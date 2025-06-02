@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="200" alt="walking pixel cat">
-</p>
 
 <h1 align="center">Hi 👋, I'm Zryaapsa</h1>
 <h3 align="center">🌱 Informatics Engineering Student | Web & Mobile Developer</h3>
