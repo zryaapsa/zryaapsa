@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cat typing">
+</p>
+
 <h1 align="center">Hi 👋, I'm Zryaapsa</h1>
 <h3 align="center">🌱 Informatics Engineering Student | Web & Mobile Developer</h3>
 
