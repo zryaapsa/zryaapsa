@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cat typing">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" alt="pixel cat walking">
 </p>
 
 <h1 align="center">Hi 👋, I'm Zryaapsa</h1>
